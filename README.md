@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-Bazoo
 - 👀 I’m interested in teaching children coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on helping children code and use git
+
 
 
 <!---
